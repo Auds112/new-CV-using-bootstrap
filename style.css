@@ -1,0 +1,33 @@
+body{
+	background-color:Dodgerblue;
+	text-align:left;
+    color:black;
+}
+h1{text-align: center;
+
+}
+
+.show{
+	background-color:white;
+	color:black;
+}
+
+.row{
+	margin-top:100px;
+	min-height:100px;
+	justify-content:space-between;
+	
+}
+
+.mleft{
+	margin-left:auto;
+	background-color:white;
+}
+.img
+{
+   width: 60%;
+   margin: auto;
+}
+
+	
+	
